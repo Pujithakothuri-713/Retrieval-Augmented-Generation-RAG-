@@ -220,3 +220,6 @@ vector databases
 retrieval pipelines
 
 grounded question answering
+<img width="1344" height="768" alt="RAG_" src="https://github.com/user-attachments/assets/f6bb2f08-9641-462a-a9a6-ce7ff1f13466" />
+
+
